@@ -8,6 +8,7 @@ class SimpleRoguelike
     {
         Console.WriteLine("I--0-0-0-0-0 ROGALIK RUSSIA 0-0-0-0-0--I");
 
+
         int hp = 100;
         int attack = 10;
         int defense = 5;
